@@ -1,0 +1,123 @@
+.bg-black {
+    background-color: black;
+}
+.text-grey {
+    color: #888888 !important;
+}
+nav {
+    padding-left: 80px;
+    border-bottom: 1px solid #44d62c;
+}
+a{
+    margin-left: 30px;
+}
+
+.first {
+    background: url(Images/razer-blade-16-18-homepage-desktop.jpg) no-repeat center center / cover;
+    height: 100vh;
+    
+    
+    
+    
+
+}@media screen and (max-width: 575px) {
+    .first {
+    background: url(Images/razer-blade-16-18-homepage-desktop-resize.jpg) no-repeat center center / cover;
+    }
+  }
+.one {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding-top: 100px;
+    color: #fff;
+    
+}
+a {
+    text-decoration: none;
+    color: #fff;
+}
+.second {
+    background: url(Images/razer-hammerhead-hyperspeed-playstation-homepage-desktop1x.jpg) no-repeat center center / cover;
+    
+    height: 100vh;
+    
+}
+.third {
+    background: url(Images/kiyo-pro-ultra-homepage-desktop.jpg) no-repeat center center / cover;
+    
+    height: 100vh;
+}
+.fourth {
+    background: url(Images/new-year-gear-b-950x580-desktop.jpg) no-repeat center center / cover;
+    
+    height: 80vh;
+}
+.fifth {
+    background: url(Images/enkipro-lamborghini-b-950x580-desktop.jpg) no-repeat center center / cover;
+    
+    height: 80vh;
+}
+.sixth {
+    background: url(Images/razer-wolverine-v2-pro-black-white-b-950x580-desktop.jpg) no-repeat center center / cover;
+    
+    height: 80vh;
+}
+.seventh {
+    background: url(Images/leviathanv2-pro-b-950x580-desktop.jpg) no-repeat center center / cover;
+    
+    height: 80vh;
+}
+.eighth {
+    background: url(Images/razer-edge-b-950x580-desktop.jpg) no-repeat center center / cover;
+    
+    height: 80vh;
+}
+.nineth {
+    background: url(Images/razer-blade-141517-b-950x580-desktop.jpg) no-repeat center center / cover;
+    
+    height: 80vh;
+}
+footer {
+    background-color: black;
+    color: #888888;
+    font-size: 12px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    
+}
+h8 {
+    font-weight: bold;
+    color: #fff;
+}
+.container-fluid {
+    background-color: black;
+}
+.f5 {
+    color: #44d62c;
+}
+.one svg {
+    color: #44d62c;
+}
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: #44d62c;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 4px;
+  }
+  #myBtn:hover {
+    background-color: transparent;
+    color: #888888;
+  }
+
